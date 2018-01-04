@@ -1,3 +1,9 @@
+shared-hosting (1.5.8-1) stable; urgency=medium
+
+  * Import upstream source to alter `Cache-Control` optimization header.
+
+ -- Clay Freeman <git@clayfreeman.com>  Thu, 04 Jan 2018 09:51:31 -0600
+
 shared-hosting (1.5.7-1) stable; urgency=medium
 
   * Import upstream source to fix bug with `FPMPool` class.
