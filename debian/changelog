@@ -1,4 +1,4 @@
-shared-hosting (1.6.0-2) stable; urgency=medium
+shared-hosting (1.6.1-1) stable; urgency=medium
 
   * Add missing custom template include for HTTPS.
 
